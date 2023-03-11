@@ -1,4 +1,16 @@
-746. Min Cost Climbing Stairs
+/**
+*
+* Problem: https://leetcode.com/problems/min-cost-climbing-stairs/
+* Name: 746. Min Cost Climbing Stairs
+*
+* Difficulty: Easy
+*
+* Time complexity: 
+* Space complexity:
+*
+* @author Namra A. Saheba
+*
+*/
 
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
