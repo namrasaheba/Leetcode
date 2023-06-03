@@ -22,7 +22,7 @@ O(n) - since we store the integers in hashmap. In worst case, if all integers ar
 n = length of array.
 
 # Code
-```
+```java
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         int goodPairs = 0;
