@@ -22,7 +22,7 @@ O(n) - since we store all the characters of the input string "jewels".
 n = length of "jewels"
 
 # Code
-```
+```java
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         int result = 0;
